@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">qimokao</string>
+    <string name="serverurl">http://122.51.116.159:8080/NewsInfo.json</string>
+</resources>
